@@ -1,4 +1,4 @@
-# fj25-financas-web
+# FJ25-Financas-Web
 Projeto desenvolvido no curso "Persistência com JPA, Hibernate e EJB lite" da Caelum.
 # Projeto do curso
 O "Sistema de Finanças" é um sistema web de controle de movimentação financeira. A forma que ele foi desenvolvido tem como objetivo apenas testar os mais diversos recursos e problemas que envolvem a persistencia de dados, utilizando as ferramentas e especificaçes que dão o nome ao curso.<br />
